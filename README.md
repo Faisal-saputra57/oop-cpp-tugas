@@ -2,7 +2,7 @@
 
 Proyek ini berisi latihan Object-Oriented Programming (OOP) dasar dalam bahasa C++.
 
-## 📚 Daftar Class
+##  Daftar Class
 
 ### 1. `Calculator`
 Class untuk melakukan operasi matematika dasar:
@@ -32,5 +32,5 @@ Representasi titik dalam bidang 2D:
 - Menyimpan koordinat x dan y
 - Menghitung jarak dari titik (0, 0)
 
-## 🧱 Struktur File
+
 
